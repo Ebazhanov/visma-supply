@@ -2,7 +2,7 @@
 
 *This is an MVP project, deployed on Netlify.*
 
-[![Deployed on Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-black?style=for-the-badge&logo=netlify)](https://app.netlify.com/sites/denis-visma)
+[![Deployed on Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-black?style=for-the-badge&logo=netlify)](https://vismasupply.netlify.app)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/VTAYkYUeKZv)
 
 ## Overview
@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://app.netlify.com/sites/denis-visma](https://app.netlify.com/sites/denis-visma)**
+**[https://vismasupply.netlify.app](https://vismasupply.netlify.app)**
 
 ## Build your app
 
