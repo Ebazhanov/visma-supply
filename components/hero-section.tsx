@@ -1,6 +1,5 @@
 "use client";
 
-import { Button } from "@/components/ui/button";
 import { useLanguage } from "@/contexts/language-context";
 
 export function HeroSection() {
@@ -18,9 +17,6 @@ export function HeroSection() {
         <p className="text-lg md:text-xl mb-8 max-w-3xl mx-auto text-pretty">
           {t.aboutText1}
         </p>
-        <Button size="lg" variant="secondary" className="text-lg px-8 py-3">
-          {t.getStarted}
-        </Button>
       </div>
     </section>
   );

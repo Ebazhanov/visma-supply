@@ -17,7 +17,7 @@ export const translations: Translations = {
     contact: 'Contact',
     // Hero Section
     heroTitle: 'Innovative Solutions for a Digital World',
-    heroSubtitle: 'Global Reach. Local Advantage. With cutting-edge technology and expert guidance.',
+    heroSubtitle: 'Global Reach. Local Advantage.',
     getStarted: 'Get Started',
     // About Section
     aboutTitle: 'Your Trusted Partner in Technical MRO Supply',
@@ -48,8 +48,8 @@ export const translations: Translations = {
     getStarted: 'Начать',
     // About Section
     aboutTitle: 'Ваш надежный партнер в поставках технических MRO',
-    aboutText1: 'VISMA — ведущий поставщик технических запчастей и сопутствующих услуг. Мы стремимся к совершенству в закупках, предлагая гибкое, надежное и финансово устойчивое партнерство.',
-    aboutText2: 'Наш глобальный охват и локальные преимущества гарантируют, что мы можем удовлетворить ваши потребности в любой точке мира, предоставляя высококачественные продукты и индивидуальные решения.',
+    aboutText1: 'Наш глобальный охват и локальное преимущество гарантируют, что мы можем удовлетворить ваши потребности в любой точке мира, предоставляя высококачественные продукты и индивидуальные решения.',
+    aboutText2: '',
     // Products Section
     productsTitle: 'Наши основные категории продуктов',
     // Partners Section
